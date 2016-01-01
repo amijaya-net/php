@@ -1,2 +1,4 @@
 # php
-Amijaya.Net, Laravel 5 : PHP Source Code, Examples
+Amijaya.Net, PHP Source Code, Examples
+
+http://amijaya.net/category/web/php/
